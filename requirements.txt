@@ -1,0 +1,6 @@
+aiohttp 
+aiosmtplib 
+aiomysql 
+boto3
+python-dotenv
+cryptography
